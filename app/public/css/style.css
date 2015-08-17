@@ -21,3 +21,8 @@ h1 {
 	border-radius: 4px;
 	padding: 40px;
 }
+
+.job-search-btn {
+	display: block;
+	margin: 0 auto;
+}
